@@ -1,0 +1,15 @@
+build/
+install/
+log/
+start_logs/
+**/build/
+**/install/
+**/log/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.onnx
+*.engine
+*.bag
+*.bag.active
